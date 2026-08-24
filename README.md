@@ -1,6 +1,12 @@
 # CoDiFormer: Multi-Stage Semantic Quantization and Adaptive Continuous-Discrete Fusion for Graph Node Classification
 
-Official implementation of **CoDiFormer**, a graph neural network framework that integrates continuous node representations with discrete vector-quantized representations for robust node classification.
+<p align="center">
+<img src="./CoDiFormer_framework.png" width="100%">
+</p>
+
+
+**Figure 1. The overall architecture of CoDiFormer.**
+The framework consists of four main components: (1) local graph representation learning with stacked GAT layers, (2) global dependency modeling with linear attention, (3) hierarchical discrete semantic tokenization based on residual vector quantization (RVQ), and (4) adaptive fusion of continuous and discrete representations for node classification.
 
 ## Overview
 
