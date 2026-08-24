@@ -1,4 +1,4 @@
-# CoDiFormer: Continuous-to-Discrete Representation Learning for Graph Node Classification
+# CoDiFormer: Multi-Stage Semantic Quantization and Adaptive Continuous-Discrete Fusion for Graph Node Classification
 
 Official implementation of **CoDiFormer**, a graph neural network framework that integrates continuous node representations with discrete vector-quantized representations for robust node classification.
 
